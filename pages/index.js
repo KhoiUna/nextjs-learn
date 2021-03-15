@@ -32,6 +32,11 @@ export default function Home({ allPostsData }) {
             <a>Post</a>
           </Link>
         </h2>
+        <h2>
+          <Link href="/test">
+            <a>Test API</a>
+          </Link>
+        </h2>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
