@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
           </Link>
         </h2>
         <h2>
-          <Link href="/test">
+          <Link href="/test/test">
             <a>Test API</a>
           </Link>
         </h2>
